@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://pbs.twimg.com/profile_images/582899210011410432/lUHjfZQl.png" alt="NodeSchool Uruguay"/>
+</p>
+
 This is the coordination/discussion repo for the Montevideo nodeschool chapter, for now issue tracker only in order to publish upcoming activities.
 
 [view discussions](https://github.com/nodeschool/montevideo/issues)
