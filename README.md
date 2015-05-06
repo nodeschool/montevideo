@@ -11,3 +11,15 @@ Bienvenidos al grupo del capítulo Montevideo de nodeschool. Por ahora este repo
 [Ver eventos](https://github.com/nodeschool/montevideo/issues)
 
 [![Slack](http://nodeschooluy.herokuapp.com/badge.svg)](https://nodeschooluy.herokuapp.com/)
+
+
+### Mentors
+
+* [Rodrigo Espinosa](https://twitter.com/espinosacurbelo)
+* [Pablo Ricco](https://twitter.com/pricco)
+* [Gabriel Chertok](https://twitter.com/iamcherta)
+* [Martin Prunell](https://twitter.com/MartinPrunell)
+* [Hector Quartino](https://twitter.com/cphoton)
+* [Pablo Dejuan](https://twitter.com/pdejuan)
+* [Nicolás Gonzálvez](https://twitter.com/NicoDev_23), 
+* [Gustavo Gard](https://twitter.com/gusgard_) 
