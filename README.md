@@ -14,9 +14,9 @@ Bienvenidos al grupo del capítulo Montevideo de nodeschool
 
 ## Eventos
 
-* `2015-05-23` [Issue](https://github.com/nodeschool/montevideo/issues/7) [Registro](https://ti.to/sophilabs/nodeschool-23th-may-2015)
-* `2015-04-28` [Issue](https://github.com/nodeschool/montevideo/issues/6) [Registro](https://ti.to/sophilabs/nodeschool-28th-apr-2015)
-* `2014-11-14` [Issue](https://github.com/nodeschool/montevideo/issues/1) [Registro](http://tech.meetup.uy/)
+* *`2015-05-23`* [Issue](https://github.com/nodeschool/montevideo/issues/7) | [Registro](https://ti.to/sophilabs/nodeschool-23th-may-2015)
+* `2015-04-28` [Issue](https://github.com/nodeschool/montevideo/issues/6) | [Registro](https://ti.to/sophilabs/nodeschool-28th-apr-2015)
+* `2014-11-14` [Issue](https://github.com/nodeschool/montevideo/issues/1) | [Registro](http://tech.meetup.uy/)
 
 
 ## Mentors
