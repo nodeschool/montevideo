@@ -10,7 +10,7 @@ Bienvenidos al grupo del capítulo Montevideo de nodeschool
 
 [Ver eventos](https://github.com/nodeschool/montevideo/issues)
 
-[![Slack](http://nodeschooluy.herokuapp.com/badge.svg)](https://nodeschooluy.herokuapp.com/)
+[![Slack](http://owy.herokuapp.com/badge.svg)](https://owu.herokuapp.com/)
 
 ## Eventos
 
