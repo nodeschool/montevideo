@@ -25,5 +25,8 @@
     "main-bower-files": "^2.5.0",
     "opn": "^1.0.0",
     "wiredep": "^2.0.0"
+  },
+  "dependencies": {
+    "gulp-git": "^1.2.3"
   }
 }
