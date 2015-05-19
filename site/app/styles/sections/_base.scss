@@ -1,0 +1,23 @@
+@import "sections/variables";
+
+body {
+  font-family: $font-family;
+  color: $white;
+  font-size: $font-medium;
+  line-height: 1.5em;
+  font-weight: normal;
+}
+
+a {
+  color: $white;
+}
+
+.button {
+  padding: 8px 12px;
+  border-radius: 4px;
+  background-color: $light;
+  font-size: $font-medium;
+  text-decoration: none;
+  text-align: center;
+  text-transform: uppercase;
+}

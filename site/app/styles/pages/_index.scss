@@ -1,0 +1,45 @@
+@import "sections/variables";
+
+.index {
+  height: 100%;
+  background-color: $blue;
+  body {
+    height: 100%;
+    & > header {
+      img {
+        display: block;
+        width: 100%;
+      }
+    }
+    & > footer {
+      text-align: center;
+      line-height: 40px;
+      vertical-align: middle;
+      margin: 40px 0 60px;
+      & > * {
+        vertical-align: middle;
+        display: inline-block;
+        margin: 0 10px;
+      }
+    }
+    & > .button {
+      display: block;
+      margin: 50px auto;
+      width: 300px;
+    }
+    & > ul {
+      padding: 0;
+      margin: 50px 20%;
+      & > li {
+        padding: 0;
+        margin: 40px 0 20px;
+        & > h3 {
+          margin: 0 0 20px 0;
+          text-align: center;
+          font-size: $font-large;
+          text-transform: uppercase;
+        }
+      }
+    }
+  }
+}

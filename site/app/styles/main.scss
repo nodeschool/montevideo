@@ -1,2 +1,11 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+
+// bower:scss
+@import "bower_components/reset-scss/reset.scss";
+// endbower
+
 @import "sections/variables";
 @import "sections/mixins";
+@import "sections/base";
+
+@import "pages/index";
